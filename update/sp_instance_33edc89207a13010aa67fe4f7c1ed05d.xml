@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4249049207a13010aa67fe4f7c1ed048</sp_column>
+        <sp_widget display_value="HM Categories">e2ad405607a13010aa67fe4f7c1ed0da</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-26 13:53:18</sys_created_on>
+        <sys_id>33edc89207a13010aa67fe4f7c1ed05d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_33edc89207a13010aa67fe4f7c1ed05d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-26 14:21:17</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"hide_xs": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"omit_badges": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"check_can_view": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"category_layout": {
+		"value": "Flat",
+		"displayValue": "Flat"
+	},
+	"page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"number_of_categories_to_load": {
+		"value": null,
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=33edc89207a13010aa67fe4f7c1ed05d"/>
+</record_update>

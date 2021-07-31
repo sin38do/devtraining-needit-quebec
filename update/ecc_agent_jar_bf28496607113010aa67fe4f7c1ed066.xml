@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_jar">
+    <ecc_agent_jar action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>comfirm whether connect to mysql or not</description>
+        <directory>false</directory>
+        <name>test for private mysql</name>
+        <parent/>
+        <source>UseJDBC.jar</source>
+        <sys_class_name>ecc_agent_jar</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-15 02:32:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bf28496607113010aa67fe4f7c1ed066</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test for private mysql</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>ecc_agent_jar_bf28496607113010aa67fe4f7c1ed066</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-15 03:40:26</sys_updated_on>
+        <version>1</version>
+    </ecc_agent_jar>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>application/java-archive</content_type>
+        <file_name>UseJDBC.jar</file_name>
+        <hash>5192ff654ed70986c464421351a42e0805c9199939be68df765336d322de792c</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2067</size_bytes>
+        <size_compressed>1934</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-15 03:41:12</sys_created_on>
+        <sys_id>925895a607113010aa67fe4f7c1ed0da</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-07-15 03:41:14</sys_updated_on>
+        <table_name>ecc_agent_jar</table_name>
+        <table_sys_id>bf28496607113010aa67fe4f7c1ed066</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="UseJDBC.jar" sys_id="925895a607113010aa67fe4f7c1ed0da">925895a607113010aa67fe4f7c1ed0da</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-15 03:41:12</sys_created_on>
+        <sys_id>5258952207513010aa67fe4f7c1ed029</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2568</length>
+        <position>1</position>
+        <sys_attachment display_value="UseJDBC.jar" sys_id="925895a607113010aa67fe4f7c1ed0da">925895a607113010aa67fe4f7c1ed0da</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-15 03:41:12</sys_created_on>
+        <sys_id>d258952207513010aa67fe4f7c1ed029</sys_id>
+    </sys_attachment_doc>
+</record_update>
