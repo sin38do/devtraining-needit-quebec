@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="保証一覧" max_length="40" name="x_58872_needit_x_58872_needit" type="collection">
+        <element label="契約者氏名（漢字）" max_length="40" name="name_kanji" type="string"/>
+        <element label="保証開始日" max_length="40" name="start_date" type="calendar_date_time"/>
+    </element>
+</database>
