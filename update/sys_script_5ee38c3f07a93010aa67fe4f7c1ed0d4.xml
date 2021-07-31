@@ -27,8 +27,10 @@
         <rest_service_text/>
         <rest_variables/>
         <role_conditions/>
-        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-
+        <script><![CDATA[//(function executeRule(current, previous /*null when async*/) {
+/*var test = new global.AllowGlideTransaction();
+var ret = test.checkACL(); 
+ret;*/
 	// Add your code here
 	var gr = new Glide.Record('x_58872_needit_x_58872_need_requestit');
 	gr.query();
@@ -37,14 +39,14 @@
 		gr1.start_date = gr.u_start_date;
 		gr1.name_kanji = gr.u_name_kanji;
 	}
-})(current, previous);]]></script>
+//})(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-07-31 05:08:42</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5ee38c3f07a93010aa67fe4f7c1ed0d4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>自動テーブルコピー</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -52,7 +54,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_script_5ee38c3f07a93010aa67fe4f7c1ed0d4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-07-31 05:08:42</sys_updated_on>
+        <sys_updated_on>2021-07-31 13:53:47</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>
